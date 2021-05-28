@@ -1,0 +1,7 @@
+﻿  gtest-all.cc
+  TestMain.cpp
+  test_polinom.cpp
+C:\Users\nikgu\source\repos\vers1\tests\test_polinom.cpp(48,18): warning C4244: =: преобразование "double" в "float", возможна потеря данных
+  Создание кода...
+test_polinom.obj : error LNK2005: _main уже определен в TestMain.obj
+C:\Users\nikgu\source\repos\vers1\Debug\Test_polinoms.exe : fatal error LNK1169: обнаружен многократно определенный символ - один или более
